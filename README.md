@@ -1,0 +1,2 @@
+# week24-day2-SQL11
+UNION, VIEW, JOINS
